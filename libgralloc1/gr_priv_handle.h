@@ -24,6 +24,7 @@
 #include <hardware/gralloc1.h>
 #include <hardware/gralloc.h>
 #ifdef __cplusplus
+#include <cerrno>
 #include <cinttypes>
 #endif
 

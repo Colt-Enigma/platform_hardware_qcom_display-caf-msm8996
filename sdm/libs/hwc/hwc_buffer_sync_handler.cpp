@@ -34,6 +34,8 @@
 #include "hwc_debugger.h"
 #include "hwc_buffer_sync_handler.h"
 
+#include <cerrno>
+
 #define __CLASS__ "HWCBufferSyncHandler"
 
 namespace sdm {
